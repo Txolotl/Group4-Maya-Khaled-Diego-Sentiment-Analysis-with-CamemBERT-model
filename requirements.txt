@@ -1,0 +1,14 @@
+Keras==2.4.3
+nltk==3.5
+numpy==1.19.4
+transformers==4.4.2
+torch==1.8.0
+requests==2.22.0
+emoji==1.2.0
+fr_core_news_md==3.0.0
+tensorflow==2.4.1
+pandas==1.1.5
+spacy==3.0.5
+wordcloud==1.8.1
+beautifulsoup4==4.9.3
+fastapi==0.63.0
