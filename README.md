@@ -53,13 +53,14 @@ The model was trained on Google colab and the resulting model weight (sentiment.
 ## Hardware requirements
 
 * at least **8 GB** of RAM
-* 
+
 Tested on Ubuntu 20.04 with no GPU
 
 
 Our team's name is **Group 4**.
 
 Here is the link for our presentation : Group 4 Sentiment Analysis API Presentation
+https://docs.google.com/presentation/d/1MT59BI7QEeYUdzuIhP5iYq-oCfEnV2-9b7C89I-H72U/edit#slide=id.gca34e2ae8e_0_0
 
 Team members:
 
