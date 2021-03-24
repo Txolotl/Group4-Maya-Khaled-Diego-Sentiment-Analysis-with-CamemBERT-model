@@ -47,8 +47,12 @@ It serves to preprocess the data using four processes: remove punctuation marks,
 *  model_camemBERT
 
 It is a model nlp based roBERTa architecture for french language used to perform sentiment prediction. We chose this model for our API because it is the most popular and easy to use and has a large support community.
-The model was trained on Google colab and the resulting model weight (sentiment.pt) was downloaded into our project to avoid larger calculation times.
+The model was trained on Google colab and the resulting model weight ('data/sentiment.pt') was downloaded into our project to avoid larger calculation times.
 
+
+*  weighted_model_camemBERT
+This link contians the file sentiment.pt need to launch the pretrained model
+https://drive.google.com/file/d/1Vyo-NkY1PK3SgXNF51xgxSFrsI04HIg9/view?usp=sharing
 
 ## Hardware requirements
 
